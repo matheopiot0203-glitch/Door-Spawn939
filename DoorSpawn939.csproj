@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>DoorSpawn939</AssemblyName>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Exiled.API" Version="8.9.11" />
+    <PackageReference Include="Exiled.Events" Version="8.9.11" />
+  </ItemGroup>
+</Project>
